@@ -263,6 +263,10 @@ hr {
     text-align: left;
 }
 
+#contribute h2 {
+    text-align: center;
+}
+
 #contribute h3 {
     font-size: 2em;
     color: var(--primary-color);
