@@ -93,7 +93,7 @@ header nav ul li a:hover {
 }
 
 .btn:hover {
-    background: var(--secondary-color); /*  Um pouco mais escuro  */
+    background: var(--secondary-color);
     transform: translateY(-2px);
 }
 
@@ -108,7 +108,7 @@ header nav ul li a:hover {
 }
 
 .btn-small:hover {
-    background: var(--primary-color); /*  Um pouco mais escuro  */
+    background: var(--primary-color);
 }
 
 /* Seções */
@@ -138,7 +138,7 @@ hr {
 
 /* Banner (Página Inicial) */
 #banner {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/banner.jpg') no-repeat center center/cover; /*  Adicione uma imagem de fundo para o banner  */
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/banner.jpg') no-repeat center center/cover; /*  Adiciona uma imagem de fundo para o banner  */
     color: var(--light-text);
     padding: 100px 0;
     text-align: center;
