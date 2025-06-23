@@ -6,7 +6,7 @@ Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Diurno/noturn
 Design para Web <br>
 
 A atividade consistia em fazer um site com 3 páginas que serviria como uma ferramenta essencial para divulgar os animais disponíveis, sensibilizar a 
-população sobre a causa animal, e facilitar o contato com possíveis adotantes e doadores. <br><br>
+população sobre a causa animal, e facilitar o contato com possíveis adotantes e doadores. <br>
 
 O intuito da tarefa era fazer apenas o design da página, então os botões de enviar os formulários, não estão funcionando, pois não era o objetivo da atividade, progrmá-los.
 
